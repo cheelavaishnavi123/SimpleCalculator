@@ -1,0 +1,17 @@
+.button{
+    height: 50px;
+    width: 50px;
+    margin: 3px;
+    
+}
+#display{
+    height: 25px;
+    margin-bottom: 10px;
+    
+}
+.button-con{
+    align-content:center;
+}
+body{
+    text-align: center;
+}
